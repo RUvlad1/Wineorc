@@ -4,6 +4,10 @@
 ![wine ver](https://img.shields.io/badge/wine-7.20-red) ![repo ver](https://img.shields.io/badge/Current%20version-2.7-success) ![lol](https://img.shields.io/badge/Pretty-cool-informational)
 </div>
 
+uhh hi
+i'll try to do something with this i guess
+dar is kidna gone now so  idk
+
 # 🍷 A simple Shell script to setup ORC revivals automatically on Linux
 
 This script is not supported in any way, shape or form by the official devs of these revivals.
